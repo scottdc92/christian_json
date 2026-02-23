@@ -1,1717 +1,2483 @@
-[
-  {
-    "section": "Introduction",
-    "entries": [
-      {
-        "WCF": null,
-        "WLC": "1",
-        "WSC": "1"
-      }
-    ]
-  },
-  {
-    "section": "Chapter 1 - Of the Holy Scripture",
-    "entries": [
-      {
-        "WCF": "1.1",
-        "WLC": "2",
-        "WSC": null
-      },
-      {
-        "WCF": "1.2",
-        "WLC": "3",
-        "WSC": "2"
-      },
-      {
-        "WCF": "1.3",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "1.4",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "1.5",
-        "WLC": "4",
-        "WSC": null
-      },
-      {
-        "WCF": "1.6",
-        "WLC": "5",
-        "WSC": "3"
-      },
-      {
-        "WCF": "1.7",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "1.8",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "1.9",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "1.10",
-        "WLC": null,
-        "WSC": null
-      }
-    ]
-  },
-  {
-    "section": "Chapter 2 - Of God, and of the Holy Trinity",
-    "entries": [
-      {
-        "WCF": null,
-        "WLC": "6",
-        "WSC": null
-      },
-      {
-        "WCF": "2.1",
-        "WLC": "8,7",
-        "WSC": "5,4"
-      },
-      {
-        "WCF": "2.2",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "2.3",
-        "WLC": "9",
-        "WSC": "6"
-      },
-      {
-        "WCF": null,
-        "WLC": "10",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "11",
-        "WSC": null
-      }
-    ]
-  },
-  {
-    "section": "Chapter 3 - Of God's Eternal Decree",
-    "entries": [
-      {
-        "WCF": "3.1",
-        "WLC": "12",
-        "WSC": null
-      },
-      {
-        "WCF": "3.2",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "3.3",
-        "WLC": "13",
-        "WSC": null
-      },
-      {
-        "WCF": "3.4",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "3.5",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "3.6",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "3.7",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "3.8",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "14",
-        "WSC": "8"
-      }
-    ]
-  },
-  {
-    "section": "Chapter 4 - Of Creation",
-    "entries": [
-      {
-        "WCF": "4.1",
-        "WLC": "15",
-        "WSC": "9"
-      },
-      {
-        "WCF": null,
-        "WLC": "16",
-        "WSC": null
-      },
-      {
-        "WCF": "4.2",
-        "WLC": "17",
-        "WSC": "10"
-      }
-    ]
-  },
-  {
-    "section": "Chapter 5 - Of Providence",
-    "entries": [
-      {
-        "WCF": "5.1",
-        "WLC": "18",
-        "WSC": "1"
-      },
-      {
-        "WCF": "5.2",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "5.3",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "5.4",
-        "WLC": "19",
-        "WSC": null
-      },
-      {
-        "WCF": "5.5",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "5.6",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "5.7",
-        "WLC": null,
-        "WSC": null
-      }
-    ]
-  },
-  {
-    "section": "Chapter 6 - Of the Fall of Man, of Sin and of the Punishment Thereof",
-    "entries": [
-      {
-        "WCF": null,
-        "WLC": "24",
-        "WSC": "14"
-      },
-      {
-        "WCF": "6.1",
-        "WLC": "21",
-        "WSC": "13,15"
-      },
-      {
-        "WCF": "6.2",
-        "WLC": "23",
-        "WSC": "17"
-      },
-      {
-        "WCF": "6.3",
-        "WLC": "22",
-        "WSC": "16"
-      },
-      {
-        "WCF": "6.4",
-        "WLC": "25",
-        "WSC": "18"
-      },
-      {
-        "WCF": "6.5",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "26",
-        "WSC": null
-      },
-      {
-        "WCF": "6.6",
-        "WLC": "27",
-        "WSC": "19"
-      },
-      {
-        "WCF": null,
-        "WLC": "28",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "29",
-        "WSC": null
-      }
-    ]
-  },
-  {
-    "section": "Chapter 7 - Of God's Covenant with Man",
-    "entries": [
-      {
-        "WCF": "7.1",
-        "WLC": "20",
-        "WSC": "12"
-      },
-      {
-        "WCF": "7.2",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "7.3",
-        "WLC": "30",
-        "WSC": "20"
-      },
-      {
-        "WCF": null,
-        "WLC": "31",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "32",
-        "WSC": null
-      },
-      {
-        "WCF": "7.4",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "7.5",
-        "WLC": "33,34",
-        "WSC": null
-      },
-      {
-        "WCF": "7.6",
-        "WLC": "35",
-        "WSC": null
-      }
-    ]
-  },
-  {
-    "section": "Chapter 8 - Of Christ the Mediator",
-    "entries": [
-      {
-        "WCF": "8,1",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "8.2",
-        "WLC": "36",
-        "WSC": "21"
-      },
-      {
-        "WCF": null,
-        "WLC": "37",
-        "WSC": "22"
-      },
-      {
-        "WCF": null,
-        "WLC": "38",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "39",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "40",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "41",
-        "WSC": null
-      },
-      {
-        "WCF": "8.3",
-        "WLC": "42",
-        "WSC": "23"
-      },
-      {
-        "WCF": null,
-        "WLC": "43",
-        "WSC": "24"
-      },
-      {
-        "WCF": "8.5",
-        "WLC": "44",
-        "WSC": "25"
-      },
-      {
-        "WCF": null,
-        "WLC": "45",
-        "WSC": "26"
-      },
-      {
-        "WCF": "8.6",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "8.4",
-        "WLC": "46",
-        "WSC": "27"
-      },
-      {
-        "WCF": null,
-        "WLC": "47",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "48",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "49",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "50",
-        "WSC": null
-      },
-      {
-        "WCF": "8.4",
-        "WLC": "51",
-        "WSC": "28"
-      },
-      {
-        "WCF": null,
-        "WLC": "52",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "53",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "54",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "55",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "56",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "57",
-        "WSC": null
-      },
-      {
-        "WCF": "8.6",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "8.7",
-        "WLC": "68",
-        "WSC": null
-      }
-    ]
-  },
-  {
-    "section": "Chapter 9 - Of Free Will",
-    "entries": [
-      {
-        "WCF": "9.1,9.2",
-        "WLC": "149",
-        "WSC": "82"
-      },
-      {
-        "WCF": "9.3",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "9.4",
-        "WLC": null,
-        "WSC": null
-      }
-    ]
-  },
-  {
-    "section": "Chapter 10 - Of Effectual Calling",
-    "entries": [
-      {
-        "WCF": null,
-        "WLC": "57",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "58",
-        "WSC": "29"
-      },
-      {
-        "WCF": null,
-        "WLC": "59",
-        "WSC": "30"
-      },
-      {
-        "WCF": null,
-        "WLC": "66",
-        "WSC": null
-      },
-      {
-        "WCF": "10.1",
-        "WLC": "67",
-        "WSC": "31"
-      },
-      {
-        "WCF": null,
-        "WLC": "68",
-        "WSC": null
-      },
-      {
-        "WCF": "10.2",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "10.3",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "10.4",
-        "WLC": "60",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": null,
-        "WSC": "32"
-      }
-    ]
-  },
-  {
-    "section": "Chapter 11 - Of Justification",
-    "entries": [
-      {
-        "WCF": "11.1",
-        "WLC": "70",
-        "WSC": "33"
-      },
-      {
-        "WCF": "11.2",
-        "WLC": "72",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "73",
-        "WSC": null
-      },
-      {
-        "WCF": "11.3",
-        "WLC": "71",
-        "WSC": null
-      },
-      {
-        "WCF": "11.4",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "11.5",
-        "WLC": null,
-        "WSC": null
-      }
-    ]
-  },
-  {
-    "section": "Chapter 12 - Of Adoption",
-    "entries": [
-      {
-        "WCF": "12.1",
-        "WLC": "74",
-        "WSC": "34"
-      }
-    ]
-  },
-  {
-    "section": "Chapter 13 - Of Sanctification",
-    "entries": [
-      {
-        "WCF": "13.1",
-        "WLC": "75",
-        "WSC": "35"
-      },
-      {
-        "WCF": "13.2",
-        "WLC": "78",
-        "WSC": null
-      },
-      {
-        "WCF": "13.3",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "77",
-        "WSC": "36"
-      }
-    ]
-  },
-  {
-    "section": "Chapter 14 - Of Saving Faith",
-    "entries": [
-      {
-        "WCF": null,
-        "WLC": "153",
-        "WSC": "85"
-      },
-      {
-        "WCF": "14.1",
-        "WLC": "72",
-        "WSC": "86"
-      },
-      {
-        "WCF": "14.2",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "73",
-        "WSC": null
-      },
-      {
-        "WCF": "14.3",
-        "WLC": null,
-        "WSC": null
-      }
-    ]
-  },
-  {
-    "section": "Chapter 15 - Of Repentance Unto Life",
-    "entries": [
-      {
-        "WCF": "15.1",
-        "WLC": "76",
-        "WSC": "87"
-      },
-      {
-        "WCF": "15.2",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "15.3",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "15.4",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "15.5",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "15.6",
-        "WLC": null,
-        "WSC": null
-      }
-    ]
-  },
-  {
-    "section": "Chapter 16 - Of Good Works",
-    "entries": [
-      {
-        "WCF": "16.1",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "16.2",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "16.3",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "16.4",
-        "WLC": "78",
-        "WSC": null
-      },
-      {
-        "WCF": "16.5",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "16.6",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "16.7",
-        "WLC": null,
-        "WSC": null
-      }
-    ]
-  },
-  {
-    "section": "Chapter 17 - Of the Perseverance of the Saints",
-    "entries": [
-      {
-        "WCF": "17.1",
-        "WLC": "79",
-        "WSC": null
-      },
-      {
-        "WCF": "17.2",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "17.3",
-        "WLC": null,
-        "WSC": null
-      }
-    ]
-  },
-  {
-    "section": "Chapter 18 - Of Assurance of Grace and Salvation",
-    "entries": [
-      {
-        "WCF": "18.1",
-        "WLC": "80",
-        "WSC": null
-      },
-      {
-        "WCF": "18.2",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "18.3",
-        "WLC": "81",
-        "WSC": null
-      },
-      {
-        "WCF": "18.4",
-        "WLC": null,
-        "WSC": null
-      }
-    ]
-  },
-  {
-    "section": "Chapter 19 - Of the Law of God",
-    "entries": [
-      {
-        "WCF": null,
-        "WLC": "91",
-        "WSC": "39"
-      },
-      {
-        "WCF": "19.1",
-        "WLC": "92",
-        "WSC": "40"
-      },
-      {
-        "WCF": null,
-        "WLC": "93",
-        "WSC": null
-      },
-      {
-        "WCF": "19.2",
-        "WLC": "98",
-        "WSC": "41"
-      },
-      {
-        "WCF": "19.3",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "19.4",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "19.5",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "94",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "95",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "96",
-        "WSC": null
-      },
-      {
-        "WCF": "19.6",
-        "WLC": "97",
-        "WSC": null
-      },
-      {
-        "WCF": "19.7",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "98",
-        "WSC": "41"
-      },
-      {
-        "WCF": null,
-        "WLC": "99",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "100",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "101",
-        "WSC": "43,44"
-      },
-      {
-        "WCF": null,
-        "WLC": "102",
-        "WSC": "42"
-      },
-      {
-        "WCF": null,
-        "WLC": "103",
-        "WSC": "45"
-      },
-      {
-        "WCF": null,
-        "WLC": "104",
-        "WSC": "46"
-      },
-      {
-        "WCF": null,
-        "WLC": "105",
-        "WSC": "47"
-      },
-      {
-        "WCF": null,
-        "WLC": "106",
-        "WSC": "48"
-      },
-      {
-        "WCF": null,
-        "WLC": "107",
-        "WSC": "49"
-      },
-      {
-        "WCF": null,
-        "WLC": "108",
-        "WSC": "50"
-      },
-      {
-        "WCF": null,
-        "WLC": "109",
-        "WSC": "51"
-      },
-      {
-        "WCF": null,
-        "WLC": "110",
-        "WSC": "52"
-      },
-      {
-        "WCF": null,
-        "WLC": "111",
-        "WSC": "53"
-      },
-      {
-        "WCF": null,
-        "WLC": "112",
-        "WSC": "54"
-      },
-      {
-        "WCF": null,
-        "WLC": "113",
-        "WSC": "55"
-      },
-      {
-        "WCF": null,
-        "WLC": "114",
-        "WSC": "56"
-      },
-      {
-        "WCF": null,
-        "WLC": "115",
-        "WSC": "57"
-      },
-      {
-        "WCF": null,
-        "WLC": "116",
-        "WSC": "58,59"
-      },
-      {
-        "WCF": null,
-        "WLC": "117",
-        "WSC": "60"
-      },
-      {
-        "WCF": null,
-        "WLC": "118",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "119",
-        "WSC": "61"
-      },
-      {
-        "WCF": null,
-        "WLC": "120",
-        "WSC": "62"
-      },
-      {
-        "WCF": null,
-        "WLC": "121",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "122",
-        "WSC": "42"
-      },
-      {
-        "WCF": null,
-        "WLC": "123",
-        "WSC": "63"
-      },
-      {
-        "WCF": null,
-        "WLC": "124",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "125",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "126",
-        "WSC": "64"
-      },
-      {
-        "WCF": null,
-        "WLC": "127",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "128",
-        "WSC": "65"
-      },
-      {
-        "WCF": null,
-        "WLC": "129",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "130",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "131",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "132",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "133",
-        "WSC": "66"
-      },
-      {
-        "WCF": null,
-        "WLC": "134",
-        "WSC": "67"
-      },
-      {
-        "WCF": null,
-        "WLC": "135",
-        "WSC": "68"
-      },
-      {
-        "WCF": null,
-        "WLC": "136",
-        "WSC": "69"
-      },
-      {
-        "WCF": null,
-        "WLC": "137",
-        "WSC": "70"
-      },
-      {
-        "WCF": null,
-        "WLC": "138",
-        "WSC": "71"
-      },
-      {
-        "WCF": null,
-        "WLC": "139",
-        "WSC": "72"
-      },
-      {
-        "WCF": null,
-        "WLC": "140",
-        "WSC": "73"
-      },
-      {
-        "WCF": null,
-        "WLC": "141",
-        "WSC": "74"
-      },
-      {
-        "WCF": null,
-        "WLC": "142",
-        "WSC": "75"
-      },
-      {
-        "WCF": null,
-        "WLC": "143",
-        "WSC": "76"
-      },
-      {
-        "WCF": null,
-        "WLC": "144",
-        "WSC": "77"
-      },
-      {
-        "WCF": null,
-        "WLC": "145",
-        "WSC": "78"
-      },
-      {
-        "WCF": null,
-        "WLC": "146",
-        "WSC": "79"
-      },
-      {
-        "WCF": null,
-        "WLC": "147",
-        "WSC": "80"
-      },
-      {
-        "WCF": null,
-        "WLC": "148",
-        "WSC": "81"
-      },
-      {
-        "WCF": null,
-        "WLC": "149",
-        "WSC": "82"
-      },
-      {
-        "WCF": null,
-        "WLC": "150",
-        "WSC": "83"
-      },
-      {
-        "WCF": null,
-        "WLC": "151",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "152",
-        "WSC": "84"
-      }
-    ]
-  },
-  {
-    "section": "Chapter 20 - Of Christian Liberty, and Liberty of Conscience",
-    "entries": [
-      {
-        "WCF": "20.1",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "20.2",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "20.3",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "20.4",
-        "WLC": null,
-        "WSC": null
-      }
-    ]
-  },
-  {
-    "section": "Chapter 21 - Of Religious Worship, and the Sabbath Day",
-    "entries": [
-      {
-        "WCF": "21.1",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "21.2",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "178",
-        "WSC": "98"
-      },
-      {
-        "WCF": null,
-        "WLC": "179",
-        "WSC": null
-      },
-      {
-        "WCF": "21.3",
-        "WLC": "185",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "180",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "181",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "182",
-        "WSC": null
-      },
-      {
-        "WCF": "21.4",
-        "WLC": "183",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "184",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "186",
-        "WSC": "99"
-      },
-      {
-        "WCF": null,
-        "WLC": "187",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "188",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "189",
-        "WSC": "100"
-      },
-      {
-        "WCF": null,
-        "WLC": "190",
-        "WSC": "101"
-      },
-      {
-        "WCF": null,
-        "WLC": "191",
-        "WSC": "102"
-      },
-      {
-        "WCF": null,
-        "WLC": "192",
-        "WSC": "103"
-      },
-      {
-        "WCF": null,
-        "WLC": "193",
-        "WSC": "104"
-      },
-      {
-        "WCF": null,
-        "WLC": "194",
-        "WSC": "105"
-      },
-      {
-        "WCF": null,
-        "WLC": "195",
-        "WSC": "106"
-      },
-      {
-        "WCF": null,
-        "WLC": "196",
-        "WSC": "107"
-      },
-      {
-        "WCF": "21.5",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "21.6",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "21.7",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "21.8",
-        "WLC": null,
-        "WSC": null
-      }
-    ]
-  },
-  {
-    "section": "Chapter 22 - Of Lawful Oaths and Vows",
-    "entries": [
-      {
-        "WCF": "22.1",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "22.2",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "22.3",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "22.4",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "22.5",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "22.6",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "22.7",
-        "WLC": null,
-        "WSC": null
-      }
-    ]
-  },
-  {
-    "section": "Chapter 23 - Of the Civil Magistrate",
-    "entries": [
-      {
-        "WCF": "23.1",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "23.2",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "23.3",
-        "WLC": "American form of paragraph III of the Confession of Faith as revised in 1789",
-        "WSC": null
-      },
-      {
-        "WCF": "23.4",
-        "WLC": null,
-        "WSC": null
-      }
-    ]
-  },
-  {
-    "section": "Chapter 24 - Of Marriage and Divorce",
-    "entries": [
-      {
-        "WCF": "24.1",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "24.2",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "24.3",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "24.4",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "24.5",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "24.6",
-        "WLC": null,
-        "WSC": null
-      }
-    ]
-  },
-  {
-    "section": "Chapter 25 - Of the Church",
-    "entries": [
-      {
-        "WCF": "25.1",
-        "WLC": "64",
-        "WSC": null
-      },
-      {
-        "WCF": "25.2",
-        "WLC": "62",
-        "WSC": null
-      },
-      {
-        "WCF": "25.3",
-        "WLC": "63",
-        "WSC": null
-      },
-      {
-        "WCF": "25.4",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "25.5",
-        "WLC": "61",
-        "WSC": null
-      },
-      {
-        "WCF": "25.6",
-        "WLC": null,
-        "WSC": null
-      }
-    ]
-  },
-  {
-    "section": "Chapter 26 - Of the Communion of Saints",
-    "entries": [
-      {
-        "WCF": "26.1",
-        "WLC": "65,66",
-        "WSC": null
-      },
-      {
-        "WCF": "26.2",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "26.3",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "82",
-        "WSC": "36"
-      },
-      {
-        "WCF": null,
-        "WLC": "83",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "86",
-        "WSC": "37"
-      },
-      {
-        "WCF": null,
-        "WLC": "90",
-        "WSC": "38"
-      }
-    ]
-  },
-  {
-    "section": "Chapter 27-A - Of the Word and Sacraments",
-    "entries": [
-      {
-        "WCF": null,
-        "WLC": "153",
-        "WSC": "85"
-      },
-      {
-        "WCF": null,
-        "WLC": "154",
-        "WSC": "88"
-      },
-      {
-        "WCF": null,
-        "WLC": "155",
-        "WSC": "89"
-      },
-      {
-        "WCF": null,
-        "WLC": "156",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "157",
-        "WSC": "90"
-      },
-      {
-        "WCF": null,
-        "WLC": "158",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "159",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "160",
-        "WSC": null
-      }
-    ]
-  },
-  {
-    "section": "Chapter 27 B - Of the Word and Sacraments",
-    "entries": [
-      {
-        "WCF": "27.1",
-        "WLC": "162",
-        "WSC": "92"
-      },
-      {
-        "WCF": "27.2",
-        "WLC": "163",
-        "WSC": null
-      },
-      {
-        "WCF": "27.3",
-        "WLC": "161",
-        "WSC": "91"
-      },
-      {
-        "WCF": "27.4",
-        "WLC": "164",
-        "WSC": "93"
-      },
-      {
-        "WCF": "27.5",
-        "WLC": null,
-        "WSC": null
-      }
-    ]
-  },
-  {
-    "section": "Chapter 28 - Of Baptism",
-    "entries": [
-      {
-        "WCF": "28.1",
-        "WLC": "165",
-        "WSC": "94"
-      },
-      {
-        "WCF": "28.2",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "28.3",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "28.4",
-        "WLC": "166",
-        "WSC": "95"
-      },
-      {
-        "WCF": null,
-        "WLC": "167",
-        "WSC": null
-      },
-      {
-        "WCF": "28.5",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "28.6",
-        "WLC": null,
-        "WSC": null
-      }
-    ]
-  },
-  {
-    "section": "Chapter 29 - Of the Lord's Supper",
-    "entries": [
-      {
-        "WCF": "29.1",
-        "WLC": "168",
-        "WSC": "96"
-      },
-      {
-        "WCF": "29.2",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "29.3",
-        "WLC": "169",
-        "WSC": null
-      },
-      {
-        "WCF": "29.4",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "29.5",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "29.6",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "29.7",
-        "WLC": "170",
-        "WSC": null
-      },
-      {
-        "WCF": "29.8",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "171",
-        "WSC": "97"
-      },
-      {
-        "WCF": null,
-        "WLC": "172",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "173",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "174",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "175",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "176",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "177",
-        "WSC": null
-      }
-    ]
-  },
-  {
-    "section": "Chapter 30 - Of Church Censures",
-    "entries": [
-      {
-        "WCF": "30.1",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "30.2",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "30.3",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "30.4",
-        "WLC": null,
-        "WSC": null
-      }
-    ]
-  },
-  {
-    "section": "Chapter 31 - Of Synods and Councils",
-    "entries": [
-      {
-        "WCF": "31.1",
-        "WLC": "The American Form of the Chapter of the Confession, Adopted by the First American General Assembly, 1789 (Paragraph 1 was revised, pargraph 2 omitted, and the rest of the chapter was renumbered.)",
-        "WSC": null
-      },
-      {
-        "WCF": "31.2",
-        "WLC": null,
-        "WSC": null
-      },
-      {
-        "WCF": "31.3",
-        "WLC": "31.2 (American Form)",
-        "WSC": null
-      },
-      {
-        "WCF": "31.4",
-        "WLC": "31.3 (American Form)",
-        "WSC": null
-      },
-      {
-        "WCF": "31.5",
-        "WLC": "31.4 (American Form)",
-        "WSC": null
-      }
-    ]
-  },
-  {
-    "section": "Chapter 32 - Of the State of Men after Death, and of the Resurrection of the Dead",
-    "entries": [
-      {
-        "WCF": null,
-        "WLC": "84",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "85",
-        "WSC": null
-      },
-      {
-        "WCF": "32.1",
-        "WLC": "86",
-        "WSC": "37"
-      },
-      {
-        "WCF": "32.2",
-        "WLC": "87",
-        "WSC": null
-      },
-      {
-        "WCF": "32.3",
-        "WLC": null,
-        "WSC": null
-      }
-    ]
-  },
-  {
-    "section": "Chapter 33 - Of the Last Judgment",
-    "entries": [
-      {
-        "WCF": "33.1",
-        "WLC": "88",
-        "WSC": null
-      },
-      {
-        "WCF": "33.2",
-        "WLC": "89",
-        "WSC": null
-      },
-      {
-        "WCF": null,
-        "WLC": "90",
-        "WSC": "38"
-      },
-      {
-        "WCF": "33.3",
-        "WLC": null,
-        "WSC": null
-      }
-    ]
-  }
-]
+{
+  "rows": [
+    {
+      "id": 1,
+      "wcf": null,
+      "wlc": [
+        1
+      ],
+      "wsc": [
+        1
+      ]
+    },
+    {
+      "id": 2,
+      "wcf": "1.1",
+      "wlc": [
+        2
+      ],
+      "wsc": null
+    },
+    {
+      "id": 3,
+      "wcf": "1.2",
+      "wlc": [
+        3
+      ],
+      "wsc": [
+        2
+      ]
+    },
+    {
+      "id": 4,
+      "wcf": "1.3",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 5,
+      "wcf": "1.4",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 6,
+      "wcf": "1.5",
+      "wlc": [
+        4
+      ],
+      "wsc": null
+    },
+    {
+      "id": 7,
+      "wcf": "1.6",
+      "wlc": [
+        5
+      ],
+      "wsc": [
+        3
+      ]
+    },
+    {
+      "id": 8,
+      "wcf": "1.7",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 9,
+      "wcf": "1.8",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 10,
+      "wcf": "1.9",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 11,
+      "wcf": "1.10",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 12,
+      "wcf": null,
+      "wlc": [
+        6
+      ],
+      "wsc": null
+    },
+    {
+      "id": 13,
+      "wcf": "2.1",
+      "wlc": [
+        8,
+        7
+      ],
+      "wsc": [
+        5,
+        4
+      ]
+    },
+    {
+      "id": 14,
+      "wcf": "2.2",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 15,
+      "wcf": "2.3",
+      "wlc": [
+        9
+      ],
+      "wsc": [
+        6
+      ]
+    },
+    {
+      "id": 16,
+      "wcf": null,
+      "wlc": [
+        10
+      ],
+      "wsc": null
+    },
+    {
+      "id": 17,
+      "wcf": null,
+      "wlc": [
+        11
+      ],
+      "wsc": null
+    },
+    {
+      "id": 18,
+      "wcf": "3.1",
+      "wlc": [
+        12
+      ],
+      "wsc": null
+    },
+    {
+      "id": 19,
+      "wcf": "3.2",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 20,
+      "wcf": "3.3",
+      "wlc": [
+        13
+      ],
+      "wsc": null
+    },
+    {
+      "id": 21,
+      "wcf": "3.4",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 22,
+      "wcf": "3.5",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 23,
+      "wcf": "3.6",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 24,
+      "wcf": "3.7",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 25,
+      "wcf": "3.8",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 26,
+      "wcf": null,
+      "wlc": [
+        14
+      ],
+      "wsc": [
+        8
+      ]
+    },
+    {
+      "id": 27,
+      "wcf": "4.1",
+      "wlc": [
+        15
+      ],
+      "wsc": [
+        9
+      ]
+    },
+    {
+      "id": 28,
+      "wcf": null,
+      "wlc": [
+        16
+      ],
+      "wsc": null
+    },
+    {
+      "id": 29,
+      "wcf": "4.2",
+      "wlc": [
+        17
+      ],
+      "wsc": [
+        10
+      ]
+    },
+    {
+      "id": 30,
+      "wcf": "5.1",
+      "wlc": [
+        18
+      ],
+      "wsc": [
+        1
+      ]
+    },
+    {
+      "id": 31,
+      "wcf": "5.2",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 32,
+      "wcf": "5.3",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 33,
+      "wcf": "5.4",
+      "wlc": [
+        19
+      ],
+      "wsc": null
+    },
+    {
+      "id": 34,
+      "wcf": "5.5",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 35,
+      "wcf": "5.6",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 36,
+      "wcf": "5.7",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 37,
+      "wcf": null,
+      "wlc": [
+        24
+      ],
+      "wsc": [
+        14
+      ]
+    },
+    {
+      "id": 38,
+      "wcf": "6.1",
+      "wlc": [
+        21
+      ],
+      "wsc": [
+        13,
+        15
+      ]
+    },
+    {
+      "id": 39,
+      "wcf": "6.2",
+      "wlc": [
+        23
+      ],
+      "wsc": [
+        17
+      ]
+    },
+    {
+      "id": 40,
+      "wcf": "6.3",
+      "wlc": [
+        22
+      ],
+      "wsc": [
+        16
+      ]
+    },
+    {
+      "id": 41,
+      "wcf": "6.4",
+      "wlc": [
+        25
+      ],
+      "wsc": [
+        18
+      ]
+    },
+    {
+      "id": 42,
+      "wcf": "6.5",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 43,
+      "wcf": null,
+      "wlc": [
+        26
+      ],
+      "wsc": null
+    },
+    {
+      "id": 44,
+      "wcf": "6.6",
+      "wlc": [
+        27
+      ],
+      "wsc": [
+        19
+      ]
+    },
+    {
+      "id": 45,
+      "wcf": null,
+      "wlc": [
+        28
+      ],
+      "wsc": null
+    },
+    {
+      "id": 46,
+      "wcf": null,
+      "wlc": [
+        29
+      ],
+      "wsc": null
+    },
+    {
+      "id": 47,
+      "wcf": "7.1",
+      "wlc": [
+        20
+      ],
+      "wsc": [
+        12
+      ]
+    },
+    {
+      "id": 48,
+      "wcf": "7.2",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 49,
+      "wcf": "7.3",
+      "wlc": [
+        30
+      ],
+      "wsc": [
+        20
+      ]
+    },
+    {
+      "id": 50,
+      "wcf": null,
+      "wlc": [
+        31
+      ],
+      "wsc": null
+    },
+    {
+      "id": 51,
+      "wcf": null,
+      "wlc": [
+        32
+      ],
+      "wsc": null
+    },
+    {
+      "id": 52,
+      "wcf": "7.4",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 53,
+      "wcf": "7.5",
+      "wlc": [
+        33,
+        34
+      ],
+      "wsc": null
+    },
+    {
+      "id": 54,
+      "wcf": "7.6",
+      "wlc": [
+        35
+      ],
+      "wsc": null
+    },
+    {
+      "id": 55,
+      "wcf": "8,1",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 56,
+      "wcf": "8.2",
+      "wlc": [
+        36
+      ],
+      "wsc": [
+        21
+      ]
+    },
+    {
+      "id": 57,
+      "wcf": null,
+      "wlc": [
+        37
+      ],
+      "wsc": [
+        22
+      ]
+    },
+    {
+      "id": 58,
+      "wcf": null,
+      "wlc": [
+        38
+      ],
+      "wsc": null
+    },
+    {
+      "id": 59,
+      "wcf": null,
+      "wlc": [
+        39
+      ],
+      "wsc": null
+    },
+    {
+      "id": 60,
+      "wcf": null,
+      "wlc": [
+        40
+      ],
+      "wsc": null
+    },
+    {
+      "id": 61,
+      "wcf": null,
+      "wlc": [
+        41
+      ],
+      "wsc": null
+    },
+    {
+      "id": 62,
+      "wcf": "8.3",
+      "wlc": [
+        42
+      ],
+      "wsc": [
+        23
+      ]
+    },
+    {
+      "id": 63,
+      "wcf": null,
+      "wlc": [
+        43
+      ],
+      "wsc": [
+        24
+      ]
+    },
+    {
+      "id": 64,
+      "wcf": "8.5",
+      "wlc": [
+        44
+      ],
+      "wsc": [
+        25
+      ]
+    },
+    {
+      "id": 65,
+      "wcf": null,
+      "wlc": [
+        45
+      ],
+      "wsc": [
+        26
+      ]
+    },
+    {
+      "id": 66,
+      "wcf": "8.6",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 67,
+      "wcf": "8.4",
+      "wlc": [
+        46
+      ],
+      "wsc": [
+        27
+      ]
+    },
+    {
+      "id": 68,
+      "wcf": null,
+      "wlc": [
+        47
+      ],
+      "wsc": null
+    },
+    {
+      "id": 69,
+      "wcf": null,
+      "wlc": [
+        48
+      ],
+      "wsc": null
+    },
+    {
+      "id": 70,
+      "wcf": null,
+      "wlc": [
+        49
+      ],
+      "wsc": null
+    },
+    {
+      "id": 71,
+      "wcf": null,
+      "wlc": [
+        50
+      ],
+      "wsc": null
+    },
+    {
+      "id": 72,
+      "wcf": "8.4",
+      "wlc": [
+        51
+      ],
+      "wsc": [
+        28
+      ]
+    },
+    {
+      "id": 73,
+      "wcf": null,
+      "wlc": [
+        52
+      ],
+      "wsc": null
+    },
+    {
+      "id": 74,
+      "wcf": null,
+      "wlc": [
+        53
+      ],
+      "wsc": null
+    },
+    {
+      "id": 75,
+      "wcf": null,
+      "wlc": [
+        54
+      ],
+      "wsc": null
+    },
+    {
+      "id": 76,
+      "wcf": null,
+      "wlc": [
+        55
+      ],
+      "wsc": null
+    },
+    {
+      "id": 77,
+      "wcf": null,
+      "wlc": [
+        56
+      ],
+      "wsc": null
+    },
+    {
+      "id": 78,
+      "wcf": null,
+      "wlc": [
+        57
+      ],
+      "wsc": null
+    },
+    {
+      "id": 79,
+      "wcf": "8.6",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 80,
+      "wcf": "8.7",
+      "wlc": [
+        68
+      ],
+      "wsc": null
+    },
+    {
+      "id": 81,
+      "wcf": "9.1,9.2",
+      "wlc": [
+        149
+      ],
+      "wsc": [
+        82
+      ]
+    },
+    {
+      "id": 82,
+      "wcf": "9.3",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 83,
+      "wcf": "9.4",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 84,
+      "wcf": null,
+      "wlc": [
+        57
+      ],
+      "wsc": null
+    },
+    {
+      "id": 85,
+      "wcf": null,
+      "wlc": [
+        58
+      ],
+      "wsc": [
+        29
+      ]
+    },
+    {
+      "id": 86,
+      "wcf": null,
+      "wlc": [
+        59
+      ],
+      "wsc": [
+        30
+      ]
+    },
+    {
+      "id": 87,
+      "wcf": null,
+      "wlc": [
+        66
+      ],
+      "wsc": null
+    },
+    {
+      "id": 88,
+      "wcf": "10.1",
+      "wlc": [
+        67
+      ],
+      "wsc": [
+        31
+      ]
+    },
+    {
+      "id": 89,
+      "wcf": null,
+      "wlc": [
+        68
+      ],
+      "wsc": null
+    },
+    {
+      "id": 90,
+      "wcf": "10.2",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 91,
+      "wcf": "10.3",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 92,
+      "wcf": "10.4",
+      "wlc": [
+        60
+      ],
+      "wsc": null
+    },
+    {
+      "id": 93,
+      "wcf": null,
+      "wlc": null,
+      "wsc": [
+        32
+      ]
+    },
+    {
+      "id": 94,
+      "wcf": "11.1",
+      "wlc": [
+        70
+      ],
+      "wsc": [
+        33
+      ]
+    },
+    {
+      "id": 95,
+      "wcf": "11.2",
+      "wlc": [
+        72
+      ],
+      "wsc": null
+    },
+    {
+      "id": 96,
+      "wcf": null,
+      "wlc": [
+        73
+      ],
+      "wsc": null
+    },
+    {
+      "id": 97,
+      "wcf": "11.3",
+      "wlc": [
+        71
+      ],
+      "wsc": null
+    },
+    {
+      "id": 98,
+      "wcf": "11.4",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 99,
+      "wcf": "11.5",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 100,
+      "wcf": "12.1",
+      "wlc": [
+        74
+      ],
+      "wsc": [
+        34
+      ]
+    },
+    {
+      "id": 101,
+      "wcf": "13.1",
+      "wlc": [
+        75
+      ],
+      "wsc": [
+        35
+      ]
+    },
+    {
+      "id": 102,
+      "wcf": "13.2",
+      "wlc": [
+        78
+      ],
+      "wsc": null
+    },
+    {
+      "id": 103,
+      "wcf": "13.3",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 104,
+      "wcf": null,
+      "wlc": [
+        77
+      ],
+      "wsc": [
+        36
+      ]
+    },
+    {
+      "id": 105,
+      "wcf": null,
+      "wlc": [
+        153
+      ],
+      "wsc": [
+        85
+      ]
+    },
+    {
+      "id": 106,
+      "wcf": "14.1",
+      "wlc": [
+        72
+      ],
+      "wsc": [
+        86
+      ]
+    },
+    {
+      "id": 107,
+      "wcf": "14.2",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 108,
+      "wcf": null,
+      "wlc": [
+        73
+      ],
+      "wsc": null
+    },
+    {
+      "id": 109,
+      "wcf": "14.3",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 110,
+      "wcf": "15.1",
+      "wlc": [
+        76
+      ],
+      "wsc": [
+        87
+      ]
+    },
+    {
+      "id": 111,
+      "wcf": "15.2",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 112,
+      "wcf": "15.3",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 113,
+      "wcf": "15.4",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 114,
+      "wcf": "15.5",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 115,
+      "wcf": "15.6",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 116,
+      "wcf": "16.1",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 117,
+      "wcf": "16.2",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 118,
+      "wcf": "16.3",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 119,
+      "wcf": "16.4",
+      "wlc": [
+        78
+      ],
+      "wsc": null
+    },
+    {
+      "id": 120,
+      "wcf": "16.5",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 121,
+      "wcf": "16.6",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 122,
+      "wcf": "16.7",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 123,
+      "wcf": "17.1",
+      "wlc": [
+        79
+      ],
+      "wsc": null
+    },
+    {
+      "id": 124,
+      "wcf": "17.2",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 125,
+      "wcf": "17.3",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 126,
+      "wcf": "18.1",
+      "wlc": [
+        80
+      ],
+      "wsc": null
+    },
+    {
+      "id": 127,
+      "wcf": "18.2",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 128,
+      "wcf": "18.3",
+      "wlc": [
+        81
+      ],
+      "wsc": null
+    },
+    {
+      "id": 129,
+      "wcf": "18.4",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 130,
+      "wcf": null,
+      "wlc": [
+        91
+      ],
+      "wsc": [
+        39
+      ]
+    },
+    {
+      "id": 131,
+      "wcf": "19.1",
+      "wlc": [
+        92
+      ],
+      "wsc": [
+        40
+      ]
+    },
+    {
+      "id": 132,
+      "wcf": null,
+      "wlc": [
+        93
+      ],
+      "wsc": null
+    },
+    {
+      "id": 133,
+      "wcf": "19.2",
+      "wlc": [
+        98
+      ],
+      "wsc": [
+        41
+      ]
+    },
+    {
+      "id": 134,
+      "wcf": "19.3",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 135,
+      "wcf": "19.4",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 136,
+      "wcf": "19.5",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 137,
+      "wcf": null,
+      "wlc": [
+        94
+      ],
+      "wsc": null
+    },
+    {
+      "id": 138,
+      "wcf": null,
+      "wlc": [
+        95
+      ],
+      "wsc": null
+    },
+    {
+      "id": 139,
+      "wcf": null,
+      "wlc": [
+        96
+      ],
+      "wsc": null
+    },
+    {
+      "id": 140,
+      "wcf": "19.6",
+      "wlc": [
+        97
+      ],
+      "wsc": null
+    },
+    {
+      "id": 141,
+      "wcf": "19.7",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 142,
+      "wcf": null,
+      "wlc": [
+        98
+      ],
+      "wsc": [
+        41
+      ]
+    },
+    {
+      "id": 143,
+      "wcf": null,
+      "wlc": [
+        99
+      ],
+      "wsc": null
+    },
+    {
+      "id": 144,
+      "wcf": null,
+      "wlc": [
+        100
+      ],
+      "wsc": null
+    },
+    {
+      "id": 145,
+      "wcf": null,
+      "wlc": [
+        101
+      ],
+      "wsc": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": 146,
+      "wcf": null,
+      "wlc": [
+        102
+      ],
+      "wsc": [
+        42
+      ]
+    },
+    {
+      "id": 147,
+      "wcf": null,
+      "wlc": [
+        103
+      ],
+      "wsc": [
+        45
+      ]
+    },
+    {
+      "id": 148,
+      "wcf": null,
+      "wlc": [
+        104
+      ],
+      "wsc": [
+        46
+      ]
+    },
+    {
+      "id": 149,
+      "wcf": null,
+      "wlc": [
+        105
+      ],
+      "wsc": [
+        47
+      ]
+    },
+    {
+      "id": 150,
+      "wcf": null,
+      "wlc": [
+        106
+      ],
+      "wsc": [
+        48
+      ]
+    },
+    {
+      "id": 151,
+      "wcf": null,
+      "wlc": [
+        107
+      ],
+      "wsc": [
+        49
+      ]
+    },
+    {
+      "id": 152,
+      "wcf": null,
+      "wlc": [
+        108
+      ],
+      "wsc": [
+        50
+      ]
+    },
+    {
+      "id": 153,
+      "wcf": null,
+      "wlc": [
+        109
+      ],
+      "wsc": [
+        51
+      ]
+    },
+    {
+      "id": 154,
+      "wcf": null,
+      "wlc": [
+        110
+      ],
+      "wsc": [
+        52
+      ]
+    },
+    {
+      "id": 155,
+      "wcf": null,
+      "wlc": [
+        111
+      ],
+      "wsc": [
+        53
+      ]
+    },
+    {
+      "id": 156,
+      "wcf": null,
+      "wlc": [
+        112
+      ],
+      "wsc": [
+        54
+      ]
+    },
+    {
+      "id": 157,
+      "wcf": null,
+      "wlc": [
+        113
+      ],
+      "wsc": [
+        55
+      ]
+    },
+    {
+      "id": 158,
+      "wcf": null,
+      "wlc": [
+        114
+      ],
+      "wsc": [
+        56
+      ]
+    },
+    {
+      "id": 159,
+      "wcf": null,
+      "wlc": [
+        115
+      ],
+      "wsc": [
+        57
+      ]
+    },
+    {
+      "id": 160,
+      "wcf": null,
+      "wlc": [
+        116
+      ],
+      "wsc": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": 161,
+      "wcf": null,
+      "wlc": [
+        117
+      ],
+      "wsc": [
+        60
+      ]
+    },
+    {
+      "id": 162,
+      "wcf": null,
+      "wlc": [
+        118
+      ],
+      "wsc": null
+    },
+    {
+      "id": 163,
+      "wcf": null,
+      "wlc": [
+        119
+      ],
+      "wsc": [
+        61
+      ]
+    },
+    {
+      "id": 164,
+      "wcf": null,
+      "wlc": [
+        120
+      ],
+      "wsc": [
+        62
+      ]
+    },
+    {
+      "id": 165,
+      "wcf": null,
+      "wlc": [
+        121
+      ],
+      "wsc": null
+    },
+    {
+      "id": 166,
+      "wcf": null,
+      "wlc": [
+        122
+      ],
+      "wsc": [
+        42
+      ]
+    },
+    {
+      "id": 167,
+      "wcf": null,
+      "wlc": [
+        123
+      ],
+      "wsc": [
+        63
+      ]
+    },
+    {
+      "id": 168,
+      "wcf": null,
+      "wlc": [
+        124
+      ],
+      "wsc": null
+    },
+    {
+      "id": 169,
+      "wcf": null,
+      "wlc": [
+        125
+      ],
+      "wsc": null
+    },
+    {
+      "id": 170,
+      "wcf": null,
+      "wlc": [
+        126
+      ],
+      "wsc": [
+        64
+      ]
+    },
+    {
+      "id": 171,
+      "wcf": null,
+      "wlc": [
+        127
+      ],
+      "wsc": null
+    },
+    {
+      "id": 172,
+      "wcf": null,
+      "wlc": [
+        128
+      ],
+      "wsc": [
+        65
+      ]
+    },
+    {
+      "id": 173,
+      "wcf": null,
+      "wlc": [
+        129
+      ],
+      "wsc": null
+    },
+    {
+      "id": 174,
+      "wcf": null,
+      "wlc": [
+        130
+      ],
+      "wsc": null
+    },
+    {
+      "id": 175,
+      "wcf": null,
+      "wlc": [
+        131
+      ],
+      "wsc": null
+    },
+    {
+      "id": 176,
+      "wcf": null,
+      "wlc": [
+        132
+      ],
+      "wsc": null
+    },
+    {
+      "id": 177,
+      "wcf": null,
+      "wlc": [
+        133
+      ],
+      "wsc": [
+        66
+      ]
+    },
+    {
+      "id": 178,
+      "wcf": null,
+      "wlc": [
+        134
+      ],
+      "wsc": [
+        67
+      ]
+    },
+    {
+      "id": 179,
+      "wcf": null,
+      "wlc": [
+        135
+      ],
+      "wsc": [
+        68
+      ]
+    },
+    {
+      "id": 180,
+      "wcf": null,
+      "wlc": [
+        136
+      ],
+      "wsc": [
+        69
+      ]
+    },
+    {
+      "id": 181,
+      "wcf": null,
+      "wlc": [
+        137
+      ],
+      "wsc": [
+        70
+      ]
+    },
+    {
+      "id": 182,
+      "wcf": null,
+      "wlc": [
+        138
+      ],
+      "wsc": [
+        71
+      ]
+    },
+    {
+      "id": 183,
+      "wcf": null,
+      "wlc": [
+        139
+      ],
+      "wsc": [
+        72
+      ]
+    },
+    {
+      "id": 184,
+      "wcf": null,
+      "wlc": [
+        140
+      ],
+      "wsc": [
+        73
+      ]
+    },
+    {
+      "id": 185,
+      "wcf": null,
+      "wlc": [
+        141
+      ],
+      "wsc": [
+        74
+      ]
+    },
+    {
+      "id": 186,
+      "wcf": null,
+      "wlc": [
+        142
+      ],
+      "wsc": [
+        75
+      ]
+    },
+    {
+      "id": 187,
+      "wcf": null,
+      "wlc": [
+        143
+      ],
+      "wsc": [
+        76
+      ]
+    },
+    {
+      "id": 188,
+      "wcf": null,
+      "wlc": [
+        144
+      ],
+      "wsc": [
+        77
+      ]
+    },
+    {
+      "id": 189,
+      "wcf": null,
+      "wlc": [
+        145
+      ],
+      "wsc": [
+        78
+      ]
+    },
+    {
+      "id": 190,
+      "wcf": null,
+      "wlc": [
+        146
+      ],
+      "wsc": [
+        79
+      ]
+    },
+    {
+      "id": 191,
+      "wcf": null,
+      "wlc": [
+        147
+      ],
+      "wsc": [
+        80
+      ]
+    },
+    {
+      "id": 192,
+      "wcf": null,
+      "wlc": [
+        148
+      ],
+      "wsc": [
+        81
+      ]
+    },
+    {
+      "id": 193,
+      "wcf": null,
+      "wlc": [
+        149
+      ],
+      "wsc": [
+        82
+      ]
+    },
+    {
+      "id": 194,
+      "wcf": null,
+      "wlc": [
+        150
+      ],
+      "wsc": [
+        83
+      ]
+    },
+    {
+      "id": 195,
+      "wcf": null,
+      "wlc": [
+        151
+      ],
+      "wsc": null
+    },
+    {
+      "id": 196,
+      "wcf": null,
+      "wlc": [
+        152
+      ],
+      "wsc": [
+        84
+      ]
+    },
+    {
+      "id": 197,
+      "wcf": "20.1",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 198,
+      "wcf": "20.2",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 199,
+      "wcf": "20.3",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 200,
+      "wcf": "20.4",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 201,
+      "wcf": "21.1",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 202,
+      "wcf": "21.2",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 203,
+      "wcf": null,
+      "wlc": [
+        178
+      ],
+      "wsc": [
+        98
+      ]
+    },
+    {
+      "id": 204,
+      "wcf": null,
+      "wlc": [
+        179
+      ],
+      "wsc": null
+    },
+    {
+      "id": 205,
+      "wcf": "21.3",
+      "wlc": [
+        185
+      ],
+      "wsc": null
+    },
+    {
+      "id": 206,
+      "wcf": null,
+      "wlc": [
+        180
+      ],
+      "wsc": null
+    },
+    {
+      "id": 207,
+      "wcf": null,
+      "wlc": [
+        181
+      ],
+      "wsc": null
+    },
+    {
+      "id": 208,
+      "wcf": null,
+      "wlc": [
+        182
+      ],
+      "wsc": null
+    },
+    {
+      "id": 209,
+      "wcf": "21.4",
+      "wlc": [
+        183
+      ],
+      "wsc": null
+    },
+    {
+      "id": 210,
+      "wcf": null,
+      "wlc": [
+        184
+      ],
+      "wsc": null
+    },
+    {
+      "id": 211,
+      "wcf": null,
+      "wlc": [
+        186
+      ],
+      "wsc": [
+        99
+      ]
+    },
+    {
+      "id": 212,
+      "wcf": null,
+      "wlc": [
+        187
+      ],
+      "wsc": null
+    },
+    {
+      "id": 213,
+      "wcf": null,
+      "wlc": [
+        188
+      ],
+      "wsc": null
+    },
+    {
+      "id": 214,
+      "wcf": null,
+      "wlc": [
+        189
+      ],
+      "wsc": [
+        100
+      ]
+    },
+    {
+      "id": 215,
+      "wcf": null,
+      "wlc": [
+        190
+      ],
+      "wsc": [
+        101
+      ]
+    },
+    {
+      "id": 216,
+      "wcf": null,
+      "wlc": [
+        191
+      ],
+      "wsc": [
+        102
+      ]
+    },
+    {
+      "id": 217,
+      "wcf": null,
+      "wlc": [
+        192
+      ],
+      "wsc": [
+        103
+      ]
+    },
+    {
+      "id": 218,
+      "wcf": null,
+      "wlc": [
+        193
+      ],
+      "wsc": [
+        104
+      ]
+    },
+    {
+      "id": 219,
+      "wcf": null,
+      "wlc": [
+        194
+      ],
+      "wsc": [
+        105
+      ]
+    },
+    {
+      "id": 220,
+      "wcf": null,
+      "wlc": [
+        195
+      ],
+      "wsc": [
+        106
+      ]
+    },
+    {
+      "id": 221,
+      "wcf": null,
+      "wlc": [
+        196
+      ],
+      "wsc": [
+        107
+      ]
+    },
+    {
+      "id": 222,
+      "wcf": "21.5",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 223,
+      "wcf": "21.6",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 224,
+      "wcf": "21.7",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 225,
+      "wcf": "21.8",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 226,
+      "wcf": "22.1",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 227,
+      "wcf": "22.2",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 228,
+      "wcf": "22.3",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 229,
+      "wcf": "22.4",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 230,
+      "wcf": "22.5",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 231,
+      "wcf": "22.6",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 232,
+      "wcf": "22.7",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 233,
+      "wcf": "23.1",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 234,
+      "wcf": "23.2",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 235,
+      "wcf": "23.3",
+      "wlc": "AM:23.3",
+      "wsc": null
+    },
+    {
+      "id": 236,
+      "wcf": "23.4",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 237,
+      "wcf": "24.1",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 238,
+      "wcf": "24.2",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 239,
+      "wcf": "24.3",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 240,
+      "wcf": "24.4",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 241,
+      "wcf": "24.5",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 242,
+      "wcf": "24.6",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 243,
+      "wcf": "25.1",
+      "wlc": [
+        64
+      ],
+      "wsc": null
+    },
+    {
+      "id": 244,
+      "wcf": "25.2",
+      "wlc": [
+        62
+      ],
+      "wsc": null
+    },
+    {
+      "id": 245,
+      "wcf": "25.3",
+      "wlc": [
+        63
+      ],
+      "wsc": null
+    },
+    {
+      "id": 246,
+      "wcf": "25.4",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 247,
+      "wcf": "25.5",
+      "wlc": [
+        61
+      ],
+      "wsc": null
+    },
+    {
+      "id": 248,
+      "wcf": "25.6",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 249,
+      "wcf": "26.1",
+      "wlc": [
+        65,
+        66
+      ],
+      "wsc": null
+    },
+    {
+      "id": 250,
+      "wcf": "26.2",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 251,
+      "wcf": "26.3",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 252,
+      "wcf": null,
+      "wlc": [
+        82
+      ],
+      "wsc": [
+        36
+      ]
+    },
+    {
+      "id": 253,
+      "wcf": null,
+      "wlc": [
+        83
+      ],
+      "wsc": null
+    },
+    {
+      "id": 254,
+      "wcf": null,
+      "wlc": [
+        86
+      ],
+      "wsc": [
+        37
+      ]
+    },
+    {
+      "id": 255,
+      "wcf": null,
+      "wlc": [
+        90
+      ],
+      "wsc": [
+        38
+      ]
+    },
+    {
+      "id": 256,
+      "wcf": null,
+      "wlc": [
+        153
+      ],
+      "wsc": [
+        85
+      ]
+    },
+    {
+      "id": 257,
+      "wcf": null,
+      "wlc": [
+        154
+      ],
+      "wsc": [
+        88
+      ]
+    },
+    {
+      "id": 258,
+      "wcf": null,
+      "wlc": [
+        155
+      ],
+      "wsc": [
+        89
+      ]
+    },
+    {
+      "id": 259,
+      "wcf": null,
+      "wlc": [
+        156
+      ],
+      "wsc": null
+    },
+    {
+      "id": 260,
+      "wcf": null,
+      "wlc": [
+        157
+      ],
+      "wsc": [
+        90
+      ]
+    },
+    {
+      "id": 261,
+      "wcf": null,
+      "wlc": [
+        158
+      ],
+      "wsc": null
+    },
+    {
+      "id": 262,
+      "wcf": null,
+      "wlc": [
+        159
+      ],
+      "wsc": null
+    },
+    {
+      "id": 263,
+      "wcf": null,
+      "wlc": [
+        160
+      ],
+      "wsc": null
+    },
+    {
+      "id": 264,
+      "wcf": "27.1",
+      "wlc": [
+        162
+      ],
+      "wsc": [
+        92
+      ]
+    },
+    {
+      "id": 265,
+      "wcf": "27.2",
+      "wlc": [
+        163
+      ],
+      "wsc": null
+    },
+    {
+      "id": 266,
+      "wcf": "27.3",
+      "wlc": [
+        161
+      ],
+      "wsc": [
+        91
+      ]
+    },
+    {
+      "id": 267,
+      "wcf": "27.4",
+      "wlc": [
+        164
+      ],
+      "wsc": [
+        93
+      ]
+    },
+    {
+      "id": 268,
+      "wcf": "27.5",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 269,
+      "wcf": "28.1",
+      "wlc": [
+        165
+      ],
+      "wsc": [
+        94
+      ]
+    },
+    {
+      "id": 270,
+      "wcf": "28.2",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 271,
+      "wcf": "28.3",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 272,
+      "wcf": "28.4",
+      "wlc": [
+        166
+      ],
+      "wsc": [
+        95
+      ]
+    },
+    {
+      "id": 273,
+      "wcf": null,
+      "wlc": [
+        167
+      ],
+      "wsc": null
+    },
+    {
+      "id": 274,
+      "wcf": "28.5",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 275,
+      "wcf": "28.6",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 276,
+      "wcf": "29.1",
+      "wlc": [
+        168
+      ],
+      "wsc": [
+        96
+      ]
+    },
+    {
+      "id": 277,
+      "wcf": "29.2",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 278,
+      "wcf": "29.3",
+      "wlc": [
+        169
+      ],
+      "wsc": null
+    },
+    {
+      "id": 279,
+      "wcf": "29.4",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 280,
+      "wcf": "29.5",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 281,
+      "wcf": "29.6",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 282,
+      "wcf": "29.7",
+      "wlc": [
+        170
+      ],
+      "wsc": null
+    },
+    {
+      "id": 283,
+      "wcf": "29.8",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 284,
+      "wcf": null,
+      "wlc": [
+        171
+      ],
+      "wsc": [
+        97
+      ]
+    },
+    {
+      "id": 285,
+      "wcf": null,
+      "wlc": [
+        172
+      ],
+      "wsc": null
+    },
+    {
+      "id": 286,
+      "wcf": null,
+      "wlc": [
+        173
+      ],
+      "wsc": null
+    },
+    {
+      "id": 287,
+      "wcf": null,
+      "wlc": [
+        174
+      ],
+      "wsc": null
+    },
+    {
+      "id": 288,
+      "wcf": null,
+      "wlc": [
+        175
+      ],
+      "wsc": null
+    },
+    {
+      "id": 289,
+      "wcf": null,
+      "wlc": [
+        176
+      ],
+      "wsc": null
+    },
+    {
+      "id": 290,
+      "wcf": null,
+      "wlc": [
+        177
+      ],
+      "wsc": null
+    },
+    {
+      "id": 291,
+      "wcf": "30.1",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 292,
+      "wcf": "30.2",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 293,
+      "wcf": "30.3",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 294,
+      "wcf": "30.4",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 295,
+      "wcf": "31.1",
+      "wlc": "AM:31.1",
+      "wsc": null
+    },
+    {
+      "id": 296,
+      "wcf": "31.2",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 297,
+      "wcf": "31.3",
+      "wlc": "AM:31.2",
+      "wsc": null
+    },
+    {
+      "id": 298,
+      "wcf": "31.4",
+      "wlc": "AM:31.3",
+      "wsc": null
+    },
+    {
+      "id": 299,
+      "wcf": "31.5",
+      "wlc": "AM:31.4",
+      "wsc": null
+    },
+    {
+      "id": 300,
+      "wcf": null,
+      "wlc": [
+        84
+      ],
+      "wsc": null
+    },
+    {
+      "id": 301,
+      "wcf": null,
+      "wlc": [
+        85
+      ],
+      "wsc": null
+    },
+    {
+      "id": 302,
+      "wcf": "32.1",
+      "wlc": [
+        86
+      ],
+      "wsc": [
+        37
+      ]
+    },
+    {
+      "id": 303,
+      "wcf": "32.2",
+      "wlc": [
+        87
+      ],
+      "wsc": null
+    },
+    {
+      "id": 304,
+      "wcf": "32.3",
+      "wlc": null,
+      "wsc": null
+    },
+    {
+      "id": 305,
+      "wcf": "33.1",
+      "wlc": [
+        88
+      ],
+      "wsc": null
+    },
+    {
+      "id": 306,
+      "wcf": "33.2",
+      "wlc": [
+        89
+      ],
+      "wsc": null
+    },
+    {
+      "id": 307,
+      "wcf": null,
+      "wlc": [
+        90
+      ],
+      "wsc": [
+        38
+      ]
+    },
+    {
+      "id": 308,
+      "wcf": "33.3",
+      "wlc": null,
+      "wsc": null
+    }
+  ]
+}
