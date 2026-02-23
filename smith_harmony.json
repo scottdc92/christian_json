@@ -1,0 +1,1717 @@
+[
+  {
+    "section": "Introduction",
+    "entries": [
+      {
+        "WCF": null,
+        "WLC": "1",
+        "WSC": "1"
+      }
+    ]
+  },
+  {
+    "section": "Chapter 1 - Of the Holy Scripture",
+    "entries": [
+      {
+        "WCF": "1.1",
+        "WLC": "2",
+        "WSC": null
+      },
+      {
+        "WCF": "1.2",
+        "WLC": "3",
+        "WSC": "2"
+      },
+      {
+        "WCF": "1.3",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "1.4",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "1.5",
+        "WLC": "4",
+        "WSC": null
+      },
+      {
+        "WCF": "1.6",
+        "WLC": "5",
+        "WSC": "3"
+      },
+      {
+        "WCF": "1.7",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "1.8",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "1.9",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "1.10",
+        "WLC": null,
+        "WSC": null
+      }
+    ]
+  },
+  {
+    "section": "Chapter 2 - Of God, and of the Holy Trinity",
+    "entries": [
+      {
+        "WCF": null,
+        "WLC": "6",
+        "WSC": null
+      },
+      {
+        "WCF": "2.1",
+        "WLC": "8,7",
+        "WSC": "5,4"
+      },
+      {
+        "WCF": "2.2",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "2.3",
+        "WLC": "9",
+        "WSC": "6"
+      },
+      {
+        "WCF": null,
+        "WLC": "10",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "11",
+        "WSC": null
+      }
+    ]
+  },
+  {
+    "section": "Chapter 3 - Of God's Eternal Decree",
+    "entries": [
+      {
+        "WCF": "3.1",
+        "WLC": "12",
+        "WSC": null
+      },
+      {
+        "WCF": "3.2",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "3.3",
+        "WLC": "13",
+        "WSC": null
+      },
+      {
+        "WCF": "3.4",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "3.5",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "3.6",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "3.7",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "3.8",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "14",
+        "WSC": "8"
+      }
+    ]
+  },
+  {
+    "section": "Chapter 4 - Of Creation",
+    "entries": [
+      {
+        "WCF": "4.1",
+        "WLC": "15",
+        "WSC": "9"
+      },
+      {
+        "WCF": null,
+        "WLC": "16",
+        "WSC": null
+      },
+      {
+        "WCF": "4.2",
+        "WLC": "17",
+        "WSC": "10"
+      }
+    ]
+  },
+  {
+    "section": "Chapter 5 - Of Providence",
+    "entries": [
+      {
+        "WCF": "5.1",
+        "WLC": "18",
+        "WSC": "1"
+      },
+      {
+        "WCF": "5.2",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "5.3",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "5.4",
+        "WLC": "19",
+        "WSC": null
+      },
+      {
+        "WCF": "5.5",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "5.6",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "5.7",
+        "WLC": null,
+        "WSC": null
+      }
+    ]
+  },
+  {
+    "section": "Chapter 6 - Of the Fall of Man, of Sin and of the Punishment Thereof",
+    "entries": [
+      {
+        "WCF": null,
+        "WLC": "24",
+        "WSC": "14"
+      },
+      {
+        "WCF": "6.1",
+        "WLC": "21",
+        "WSC": "13,15"
+      },
+      {
+        "WCF": "6.2",
+        "WLC": "23",
+        "WSC": "17"
+      },
+      {
+        "WCF": "6.3",
+        "WLC": "22",
+        "WSC": "16"
+      },
+      {
+        "WCF": "6.4",
+        "WLC": "25",
+        "WSC": "18"
+      },
+      {
+        "WCF": "6.5",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "26",
+        "WSC": null
+      },
+      {
+        "WCF": "6.6",
+        "WLC": "27",
+        "WSC": "19"
+      },
+      {
+        "WCF": null,
+        "WLC": "28",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "29",
+        "WSC": null
+      }
+    ]
+  },
+  {
+    "section": "Chapter 7 - Of God's Covenant with Man",
+    "entries": [
+      {
+        "WCF": "7.1",
+        "WLC": "20",
+        "WSC": "12"
+      },
+      {
+        "WCF": "7.2",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "7.3",
+        "WLC": "30",
+        "WSC": "20"
+      },
+      {
+        "WCF": null,
+        "WLC": "31",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "32",
+        "WSC": null
+      },
+      {
+        "WCF": "7.4",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "7.5",
+        "WLC": "33,34",
+        "WSC": null
+      },
+      {
+        "WCF": "7.6",
+        "WLC": "35",
+        "WSC": null
+      }
+    ]
+  },
+  {
+    "section": "Chapter 8 - Of Christ the Mediator",
+    "entries": [
+      {
+        "WCF": "8,1",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "8.2",
+        "WLC": "36",
+        "WSC": "21"
+      },
+      {
+        "WCF": null,
+        "WLC": "37",
+        "WSC": "22"
+      },
+      {
+        "WCF": null,
+        "WLC": "38",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "39",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "40",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "41",
+        "WSC": null
+      },
+      {
+        "WCF": "8.3",
+        "WLC": "42",
+        "WSC": "23"
+      },
+      {
+        "WCF": null,
+        "WLC": "43",
+        "WSC": "24"
+      },
+      {
+        "WCF": "8.5",
+        "WLC": "44",
+        "WSC": "25"
+      },
+      {
+        "WCF": null,
+        "WLC": "45",
+        "WSC": "26"
+      },
+      {
+        "WCF": "8.6",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "8.4",
+        "WLC": "46",
+        "WSC": "27"
+      },
+      {
+        "WCF": null,
+        "WLC": "47",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "48",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "49",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "50",
+        "WSC": null
+      },
+      {
+        "WCF": "8.4",
+        "WLC": "51",
+        "WSC": "28"
+      },
+      {
+        "WCF": null,
+        "WLC": "52",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "53",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "54",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "55",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "56",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "57",
+        "WSC": null
+      },
+      {
+        "WCF": "8.6",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "8.7",
+        "WLC": "68",
+        "WSC": null
+      }
+    ]
+  },
+  {
+    "section": "Chapter 9 - Of Free Will",
+    "entries": [
+      {
+        "WCF": "9.1,9.2",
+        "WLC": "149",
+        "WSC": "82"
+      },
+      {
+        "WCF": "9.3",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "9.4",
+        "WLC": null,
+        "WSC": null
+      }
+    ]
+  },
+  {
+    "section": "Chapter 10 - Of Effectual Calling",
+    "entries": [
+      {
+        "WCF": null,
+        "WLC": "57",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "58",
+        "WSC": "29"
+      },
+      {
+        "WCF": null,
+        "WLC": "59",
+        "WSC": "30"
+      },
+      {
+        "WCF": null,
+        "WLC": "66",
+        "WSC": null
+      },
+      {
+        "WCF": "10.1",
+        "WLC": "67",
+        "WSC": "31"
+      },
+      {
+        "WCF": null,
+        "WLC": "68",
+        "WSC": null
+      },
+      {
+        "WCF": "10.2",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "10.3",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "10.4",
+        "WLC": "60",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": null,
+        "WSC": "32"
+      }
+    ]
+  },
+  {
+    "section": "Chapter 11 - Of Justification",
+    "entries": [
+      {
+        "WCF": "11.1",
+        "WLC": "70",
+        "WSC": "33"
+      },
+      {
+        "WCF": "11.2",
+        "WLC": "72",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "73",
+        "WSC": null
+      },
+      {
+        "WCF": "11.3",
+        "WLC": "71",
+        "WSC": null
+      },
+      {
+        "WCF": "11.4",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "11.5",
+        "WLC": null,
+        "WSC": null
+      }
+    ]
+  },
+  {
+    "section": "Chapter 12 - Of Adoption",
+    "entries": [
+      {
+        "WCF": "12.1",
+        "WLC": "74",
+        "WSC": "34"
+      }
+    ]
+  },
+  {
+    "section": "Chapter 13 - Of Sanctification",
+    "entries": [
+      {
+        "WCF": "13.1",
+        "WLC": "75",
+        "WSC": "35"
+      },
+      {
+        "WCF": "13.2",
+        "WLC": "78",
+        "WSC": null
+      },
+      {
+        "WCF": "13.3",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "77",
+        "WSC": "36"
+      }
+    ]
+  },
+  {
+    "section": "Chapter 14 - Of Saving Faith",
+    "entries": [
+      {
+        "WCF": null,
+        "WLC": "153",
+        "WSC": "85"
+      },
+      {
+        "WCF": "14.1",
+        "WLC": "72",
+        "WSC": "86"
+      },
+      {
+        "WCF": "14.2",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "73",
+        "WSC": null
+      },
+      {
+        "WCF": "14.3",
+        "WLC": null,
+        "WSC": null
+      }
+    ]
+  },
+  {
+    "section": "Chapter 15 - Of Repentance Unto Life",
+    "entries": [
+      {
+        "WCF": "15.1",
+        "WLC": "76",
+        "WSC": "87"
+      },
+      {
+        "WCF": "15.2",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "15.3",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "15.4",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "15.5",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "15.6",
+        "WLC": null,
+        "WSC": null
+      }
+    ]
+  },
+  {
+    "section": "Chapter 16 - Of Good Works",
+    "entries": [
+      {
+        "WCF": "16.1",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "16.2",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "16.3",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "16.4",
+        "WLC": "78",
+        "WSC": null
+      },
+      {
+        "WCF": "16.5",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "16.6",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "16.7",
+        "WLC": null,
+        "WSC": null
+      }
+    ]
+  },
+  {
+    "section": "Chapter 17 - Of the Perseverance of the Saints",
+    "entries": [
+      {
+        "WCF": "17.1",
+        "WLC": "79",
+        "WSC": null
+      },
+      {
+        "WCF": "17.2",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "17.3",
+        "WLC": null,
+        "WSC": null
+      }
+    ]
+  },
+  {
+    "section": "Chapter 18 - Of Assurance of Grace and Salvation",
+    "entries": [
+      {
+        "WCF": "18.1",
+        "WLC": "80",
+        "WSC": null
+      },
+      {
+        "WCF": "18.2",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "18.3",
+        "WLC": "81",
+        "WSC": null
+      },
+      {
+        "WCF": "18.4",
+        "WLC": null,
+        "WSC": null
+      }
+    ]
+  },
+  {
+    "section": "Chapter 19 - Of the Law of God",
+    "entries": [
+      {
+        "WCF": null,
+        "WLC": "91",
+        "WSC": "39"
+      },
+      {
+        "WCF": "19.1",
+        "WLC": "92",
+        "WSC": "40"
+      },
+      {
+        "WCF": null,
+        "WLC": "93",
+        "WSC": null
+      },
+      {
+        "WCF": "19.2",
+        "WLC": "98",
+        "WSC": "41"
+      },
+      {
+        "WCF": "19.3",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "19.4",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "19.5",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "94",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "95",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "96",
+        "WSC": null
+      },
+      {
+        "WCF": "19.6",
+        "WLC": "97",
+        "WSC": null
+      },
+      {
+        "WCF": "19.7",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "98",
+        "WSC": "41"
+      },
+      {
+        "WCF": null,
+        "WLC": "99",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "100",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "101",
+        "WSC": "43,44"
+      },
+      {
+        "WCF": null,
+        "WLC": "102",
+        "WSC": "42"
+      },
+      {
+        "WCF": null,
+        "WLC": "103",
+        "WSC": "45"
+      },
+      {
+        "WCF": null,
+        "WLC": "104",
+        "WSC": "46"
+      },
+      {
+        "WCF": null,
+        "WLC": "105",
+        "WSC": "47"
+      },
+      {
+        "WCF": null,
+        "WLC": "106",
+        "WSC": "48"
+      },
+      {
+        "WCF": null,
+        "WLC": "107",
+        "WSC": "49"
+      },
+      {
+        "WCF": null,
+        "WLC": "108",
+        "WSC": "50"
+      },
+      {
+        "WCF": null,
+        "WLC": "109",
+        "WSC": "51"
+      },
+      {
+        "WCF": null,
+        "WLC": "110",
+        "WSC": "52"
+      },
+      {
+        "WCF": null,
+        "WLC": "111",
+        "WSC": "53"
+      },
+      {
+        "WCF": null,
+        "WLC": "112",
+        "WSC": "54"
+      },
+      {
+        "WCF": null,
+        "WLC": "113",
+        "WSC": "55"
+      },
+      {
+        "WCF": null,
+        "WLC": "114",
+        "WSC": "56"
+      },
+      {
+        "WCF": null,
+        "WLC": "115",
+        "WSC": "57"
+      },
+      {
+        "WCF": null,
+        "WLC": "116",
+        "WSC": "58,59"
+      },
+      {
+        "WCF": null,
+        "WLC": "117",
+        "WSC": "60"
+      },
+      {
+        "WCF": null,
+        "WLC": "118",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "119",
+        "WSC": "61"
+      },
+      {
+        "WCF": null,
+        "WLC": "120",
+        "WSC": "62"
+      },
+      {
+        "WCF": null,
+        "WLC": "121",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "122",
+        "WSC": "42"
+      },
+      {
+        "WCF": null,
+        "WLC": "123",
+        "WSC": "63"
+      },
+      {
+        "WCF": null,
+        "WLC": "124",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "125",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "126",
+        "WSC": "64"
+      },
+      {
+        "WCF": null,
+        "WLC": "127",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "128",
+        "WSC": "65"
+      },
+      {
+        "WCF": null,
+        "WLC": "129",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "130",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "131",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "132",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "133",
+        "WSC": "66"
+      },
+      {
+        "WCF": null,
+        "WLC": "134",
+        "WSC": "67"
+      },
+      {
+        "WCF": null,
+        "WLC": "135",
+        "WSC": "68"
+      },
+      {
+        "WCF": null,
+        "WLC": "136",
+        "WSC": "69"
+      },
+      {
+        "WCF": null,
+        "WLC": "137",
+        "WSC": "70"
+      },
+      {
+        "WCF": null,
+        "WLC": "138",
+        "WSC": "71"
+      },
+      {
+        "WCF": null,
+        "WLC": "139",
+        "WSC": "72"
+      },
+      {
+        "WCF": null,
+        "WLC": "140",
+        "WSC": "73"
+      },
+      {
+        "WCF": null,
+        "WLC": "141",
+        "WSC": "74"
+      },
+      {
+        "WCF": null,
+        "WLC": "142",
+        "WSC": "75"
+      },
+      {
+        "WCF": null,
+        "WLC": "143",
+        "WSC": "76"
+      },
+      {
+        "WCF": null,
+        "WLC": "144",
+        "WSC": "77"
+      },
+      {
+        "WCF": null,
+        "WLC": "145",
+        "WSC": "78"
+      },
+      {
+        "WCF": null,
+        "WLC": "146",
+        "WSC": "79"
+      },
+      {
+        "WCF": null,
+        "WLC": "147",
+        "WSC": "80"
+      },
+      {
+        "WCF": null,
+        "WLC": "148",
+        "WSC": "81"
+      },
+      {
+        "WCF": null,
+        "WLC": "149",
+        "WSC": "82"
+      },
+      {
+        "WCF": null,
+        "WLC": "150",
+        "WSC": "83"
+      },
+      {
+        "WCF": null,
+        "WLC": "151",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "152",
+        "WSC": "84"
+      }
+    ]
+  },
+  {
+    "section": "Chapter 20 - Of Christian Liberty, and Liberty of Conscience",
+    "entries": [
+      {
+        "WCF": "20.1",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "20.2",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "20.3",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "20.4",
+        "WLC": null,
+        "WSC": null
+      }
+    ]
+  },
+  {
+    "section": "Chapter 21 - Of Religious Worship, and the Sabbath Day",
+    "entries": [
+      {
+        "WCF": "21.1",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "21.2",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "178",
+        "WSC": "98"
+      },
+      {
+        "WCF": null,
+        "WLC": "179",
+        "WSC": null
+      },
+      {
+        "WCF": "21.3",
+        "WLC": "185",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "180",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "181",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "182",
+        "WSC": null
+      },
+      {
+        "WCF": "21.4",
+        "WLC": "183",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "184",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "186",
+        "WSC": "99"
+      },
+      {
+        "WCF": null,
+        "WLC": "187",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "188",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "189",
+        "WSC": "100"
+      },
+      {
+        "WCF": null,
+        "WLC": "190",
+        "WSC": "101"
+      },
+      {
+        "WCF": null,
+        "WLC": "191",
+        "WSC": "102"
+      },
+      {
+        "WCF": null,
+        "WLC": "192",
+        "WSC": "103"
+      },
+      {
+        "WCF": null,
+        "WLC": "193",
+        "WSC": "104"
+      },
+      {
+        "WCF": null,
+        "WLC": "194",
+        "WSC": "105"
+      },
+      {
+        "WCF": null,
+        "WLC": "195",
+        "WSC": "106"
+      },
+      {
+        "WCF": null,
+        "WLC": "196",
+        "WSC": "107"
+      },
+      {
+        "WCF": "21.5",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "21.6",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "21.7",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "21.8",
+        "WLC": null,
+        "WSC": null
+      }
+    ]
+  },
+  {
+    "section": "Chapter 22 - Of Lawful Oaths and Vows",
+    "entries": [
+      {
+        "WCF": "22.1",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "22.2",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "22.3",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "22.4",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "22.5",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "22.6",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "22.7",
+        "WLC": null,
+        "WSC": null
+      }
+    ]
+  },
+  {
+    "section": "Chapter 23 - Of the Civil Magistrate",
+    "entries": [
+      {
+        "WCF": "23.1",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "23.2",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "23.3",
+        "WLC": "American form of paragraph III of the Confession of Faith as revised in 1789",
+        "WSC": null
+      },
+      {
+        "WCF": "23.4",
+        "WLC": null,
+        "WSC": null
+      }
+    ]
+  },
+  {
+    "section": "Chapter 24 - Of Marriage and Divorce",
+    "entries": [
+      {
+        "WCF": "24.1",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "24.2",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "24.3",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "24.4",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "24.5",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "24.6",
+        "WLC": null,
+        "WSC": null
+      }
+    ]
+  },
+  {
+    "section": "Chapter 25 - Of the Church",
+    "entries": [
+      {
+        "WCF": "25.1",
+        "WLC": "64",
+        "WSC": null
+      },
+      {
+        "WCF": "25.2",
+        "WLC": "62",
+        "WSC": null
+      },
+      {
+        "WCF": "25.3",
+        "WLC": "63",
+        "WSC": null
+      },
+      {
+        "WCF": "25.4",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "25.5",
+        "WLC": "61",
+        "WSC": null
+      },
+      {
+        "WCF": "25.6",
+        "WLC": null,
+        "WSC": null
+      }
+    ]
+  },
+  {
+    "section": "Chapter 26 - Of the Communion of Saints",
+    "entries": [
+      {
+        "WCF": "26.1",
+        "WLC": "65,66",
+        "WSC": null
+      },
+      {
+        "WCF": "26.2",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "26.3",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "82",
+        "WSC": "36"
+      },
+      {
+        "WCF": null,
+        "WLC": "83",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "86",
+        "WSC": "37"
+      },
+      {
+        "WCF": null,
+        "WLC": "90",
+        "WSC": "38"
+      }
+    ]
+  },
+  {
+    "section": "Chapter 27-A - Of the Word and Sacraments",
+    "entries": [
+      {
+        "WCF": null,
+        "WLC": "153",
+        "WSC": "85"
+      },
+      {
+        "WCF": null,
+        "WLC": "154",
+        "WSC": "88"
+      },
+      {
+        "WCF": null,
+        "WLC": "155",
+        "WSC": "89"
+      },
+      {
+        "WCF": null,
+        "WLC": "156",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "157",
+        "WSC": "90"
+      },
+      {
+        "WCF": null,
+        "WLC": "158",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "159",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "160",
+        "WSC": null
+      }
+    ]
+  },
+  {
+    "section": "Chapter 27 B - Of the Word and Sacraments",
+    "entries": [
+      {
+        "WCF": "27.1",
+        "WLC": "162",
+        "WSC": "92"
+      },
+      {
+        "WCF": "27.2",
+        "WLC": "163",
+        "WSC": null
+      },
+      {
+        "WCF": "27.3",
+        "WLC": "161",
+        "WSC": "91"
+      },
+      {
+        "WCF": "27.4",
+        "WLC": "164",
+        "WSC": "93"
+      },
+      {
+        "WCF": "27.5",
+        "WLC": null,
+        "WSC": null
+      }
+    ]
+  },
+  {
+    "section": "Chapter 28 - Of Baptism",
+    "entries": [
+      {
+        "WCF": "28.1",
+        "WLC": "165",
+        "WSC": "94"
+      },
+      {
+        "WCF": "28.2",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "28.3",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "28.4",
+        "WLC": "166",
+        "WSC": "95"
+      },
+      {
+        "WCF": null,
+        "WLC": "167",
+        "WSC": null
+      },
+      {
+        "WCF": "28.5",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "28.6",
+        "WLC": null,
+        "WSC": null
+      }
+    ]
+  },
+  {
+    "section": "Chapter 29 - Of the Lord's Supper",
+    "entries": [
+      {
+        "WCF": "29.1",
+        "WLC": "168",
+        "WSC": "96"
+      },
+      {
+        "WCF": "29.2",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "29.3",
+        "WLC": "169",
+        "WSC": null
+      },
+      {
+        "WCF": "29.4",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "29.5",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "29.6",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "29.7",
+        "WLC": "170",
+        "WSC": null
+      },
+      {
+        "WCF": "29.8",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "171",
+        "WSC": "97"
+      },
+      {
+        "WCF": null,
+        "WLC": "172",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "173",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "174",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "175",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "176",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "177",
+        "WSC": null
+      }
+    ]
+  },
+  {
+    "section": "Chapter 30 - Of Church Censures",
+    "entries": [
+      {
+        "WCF": "30.1",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "30.2",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "30.3",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "30.4",
+        "WLC": null,
+        "WSC": null
+      }
+    ]
+  },
+  {
+    "section": "Chapter 31 - Of Synods and Councils",
+    "entries": [
+      {
+        "WCF": "31.1",
+        "WLC": "The American Form of the Chapter of the Confession, Adopted by the First American General Assembly, 1789 (Paragraph 1 was revised, pargraph 2 omitted, and the rest of the chapter was renumbered.)",
+        "WSC": null
+      },
+      {
+        "WCF": "31.2",
+        "WLC": null,
+        "WSC": null
+      },
+      {
+        "WCF": "31.3",
+        "WLC": "31.2 (American Form)",
+        "WSC": null
+      },
+      {
+        "WCF": "31.4",
+        "WLC": "31.3 (American Form)",
+        "WSC": null
+      },
+      {
+        "WCF": "31.5",
+        "WLC": "31.4 (American Form)",
+        "WSC": null
+      }
+    ]
+  },
+  {
+    "section": "Chapter 32 - Of the State of Men after Death, and of the Resurrection of the Dead",
+    "entries": [
+      {
+        "WCF": null,
+        "WLC": "84",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "85",
+        "WSC": null
+      },
+      {
+        "WCF": "32.1",
+        "WLC": "86",
+        "WSC": "37"
+      },
+      {
+        "WCF": "32.2",
+        "WLC": "87",
+        "WSC": null
+      },
+      {
+        "WCF": "32.3",
+        "WLC": null,
+        "WSC": null
+      }
+    ]
+  },
+  {
+    "section": "Chapter 33 - Of the Last Judgment",
+    "entries": [
+      {
+        "WCF": "33.1",
+        "WLC": "88",
+        "WSC": null
+      },
+      {
+        "WCF": "33.2",
+        "WLC": "89",
+        "WSC": null
+      },
+      {
+        "WCF": null,
+        "WLC": "90",
+        "WSC": "38"
+      },
+      {
+        "WCF": "33.3",
+        "WLC": null,
+        "WSC": null
+      }
+    ]
+  }
+]
